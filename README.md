@@ -1,7 +1,4 @@
 # hello-world
 first repository
 
-yoyoyoyoyoyoy
-ytotdfkdhsh
-whats yp 
-how  doing
+some changes have been done to the master file
